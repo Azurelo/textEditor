@@ -9,6 +9,6 @@ Downloadable Text Editor
 
 
 ## Snapshots
-
+![image](https://user-images.githubusercontent.com/114710827/229954057-b3abb659-33b2-48f6-a4cd-e467555adbd0.png)
 
 
